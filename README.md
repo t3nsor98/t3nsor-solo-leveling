@@ -2,7 +2,7 @@
 
 # Purple VS Code Theme - Solo Leveling Inspired
 
-![Banner](banner.jpg)
+![Banner](1193008.jpg)
 
 ## Overview
 
