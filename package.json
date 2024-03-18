@@ -4,6 +4,10 @@
   "description": "an purple anime inspired theme",
   "version": "0.0.1",
   "publisher": "t3nsor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t3nsor98/t3nsor-solo-leveling.git"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
